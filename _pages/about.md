@@ -41,27 +41,25 @@ I maintain a critical yet open-minded attitude toward academic research and disc
 
 ## **Experience**
 
-### **Ph.D. Student | EPIC Lab @ SAI, Shanghai Jiao Tong University**
+**Ph.D. Student | EPIC Lab @ SAI, Shanghai Jiao Tong University**
 
 *Start @ Sept 2026*
 
 * Incoming doctoral candidate focusing on next-generation generative models.
 
 
-### **Research Intern (Qingyun Program) | Foundation Model Team @ Tencent Hunyuan**
+**Research Intern (Qingyun Program) | Foundation Model Team @ Tencent Hunyuan**
 *2025 – Present*
 
 * Conducting foundation model research on large-scale compute clusters.
 * Focusing on acceleration techniques such as **caching and distillation**.
 * Contributing as a **Core Member** to projects including **HunyuanVideo 1.5**.
 
-
-### **Research Intern | EPIC Lab**
+**Research Intern | EPIC Lab**
 *2024 – 2026*
 * Advised by **Prof. Linfeng Zhang**, focusing on Efficient AIGC research.
 
-
-### **Undergraduate | Yingcai Honors College, UESTC**
+**Undergraduate | Yingcai Honors College, UESTC**
 *2022 – 2026*
 * Major: **Mathematics-Physics Fundamental Science (Yingcai Honors
 Program of UESTC)**, Direction of Artificial Intelligence.
