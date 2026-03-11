@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://changzou.github.io/sitemap.xml
+Sitemap: https://shenyi-z.github.io/sitemap.xml
