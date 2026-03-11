@@ -6,7 +6,7 @@ email: shenyizou@gmail.com # your email address
 #inspirehep_id: null # Inspire HEP author ID
 rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: yWm0cJsAAAAJ # your Google Scholar ID
-wechat_qr: assets/img/my_wechat_qr_code.jpg # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
+wechat_qr: /assets/img/my_wechat_qr_code.jpg # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 github_username: Shenyi-Z
 linkedin_username: chang-zou-9532633a4
