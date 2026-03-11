@@ -53,7 +53,7 @@ I maintain a critical yet open-minded attitude toward academic research and disc
 * Focusing on acceleration techniques such as **caching and distillation**.
 * Contributing as a **Core Member** to projects including [**HunyuanVideo 1.5**](https://arxiv.org/abs/2511.18870).
 
-**Research Intern | EPIC Lab**
+**Research Intern | EPIC Lab @ SAI, Shanghai Jiao Tong University**
 *2024 – 2026*
 * Advised by [**Prof. Linfeng Zhang**](https://www.zhanglinfeng.tech), focusing on Efficient AIGC research.
 

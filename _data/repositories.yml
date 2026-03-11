@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - shenyi-z
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - shenyi-z/TaylorSeer
+  - shenyi-z/ToCa
+  - shenyi-z/Cache4Diffusion
+  - Tencent-Hunyuan/HunyuanVideo-1.5
+  - huggingface/diffusers

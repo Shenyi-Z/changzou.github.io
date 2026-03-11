@@ -7,3 +7,36 @@
 
 "Vision":
   color: "#009f36"
+
+"CVPR":
+  url: https://cvpr.thecvf.com/
+  color: "#0EA5E9" # Sky Blue (明快天蓝，代表计算机视觉的广阔视野)
+
+"ICCV":
+  url: https://iccv.thecvf.com/
+  color: "#10B981" # Emerald (典雅翠绿，与天蓝形成视觉领域的双子星)
+
+"ICLR":
+  url: https://iclr.cc/
+  color: "#8B5CF6" # Violet (柔和亮紫，彰显表征学习的深度)
+
+"NeurIPS":
+  url: https://nips.cc/
+  color: "#6366F1" # Indigo (质感靛蓝，完美过渡 CVPR 的蓝与 ICLR 的紫)
+
+"ACM MM":
+  url: https://www.acmmm.org/
+  color: "#F43F5E" # Rose Pink (活力玫瑰粉，代表多媒体技术的多彩)
+
+"AAAI":
+  url: https://aaai.org/Conferences/AAAI/
+  color: "#EF4444" # Standard Red (明艳正红，修正了原本过暗的深红，使其融入整体色系)
+
+"Tech Report":
+  url: https://arxiv.org/abs/2511.18870
+  color: "#64748B" # Slate (高级灰蓝，提亮了死板的纯灰，保留底座质感的同时不显沉闷)
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#F59E0B" # Amber (温暖琥珀黄，极具辨识度，代表预印本蓬勃的生命力与进行时状态)
+  
