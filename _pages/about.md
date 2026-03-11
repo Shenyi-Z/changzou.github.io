@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Phd Student @<a href='#'>School of AI, Shanghai JiaoTong University</a>
+subtitle: Phd Student @<a href='https://soai.sjtu.edu.cn/'>School of AI, Shanghai JiaoTong University</a>
 
 profile:
   align: right
@@ -29,20 +29,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-## **About Me**
+#### **About Me**
 
-Hi, I’m **Chang Zou**. I am currently an undergraduate at **Yingcai Honors College, UESTC**, where I will receive my B.Sc. in Artificial Intelligence in June 2026. Following my graduation, I will begin my Ph.D. journey in September 2026 at the **School of AI, Shanghai Jiao Tong University (SJTU)**, under the supervision of **Prof. Linfeng Zhang**.
+Hi, I’m **Chang Zou**. I am currently an undergraduate at [**Yingcai Honors College, UESTC**](https://www.yingcai.uestc.edu.cn/), where I will receive my B.Sc. in Artificial Intelligence in June 2026. Following my graduation, I will begin my Ph.D. journey in September 2026 at the **School of AI, Shanghai Jiao Tong University (SJTU)**, under the supervision of [**Prof. Linfeng Zhang**](https://www.zhanglinfeng.tech).
 
 My research primarily focuses on **Precise and Efficient AIGC**. From 2024 to 2026, my work centered on inference acceleration for diffusion models, where I achieved significant milestones in speeding up image and video generation (you may recognize my work through the [**TaylorSeer**](https://github.com/Shenyi-Z/TaylorSeer) project). Since 2026, I have expanded my exploration into **agentic video generation, world models, and unified native multi-modal LLMs** that bridge generation and understanding.
 
-I maintain a critical yet open-minded attitude toward academic research and discussions. I am always eager to connect—feel free to reach out!
+I maintain a critical yet open-minded attitude toward academic research and discussions. I am always eager to connect, feel free to reach out!
 
----
 
-## **Experience**
+#### **Experience**
 
 **Ph.D. Student | EPIC Lab @ SAI, Shanghai Jiao Tong University**
-
 *Start @ Sept 2026*
 
 * Incoming doctoral candidate focusing on next-generation generative models.
@@ -51,13 +49,13 @@ I maintain a critical yet open-minded attitude toward academic research and disc
 **Research Intern (Qingyun Program) | Foundation Model Team @ Tencent Hunyuan**
 *2025 – Present*
 
-* Conducting foundation model research on large-scale compute clusters.
+* Conducting foundation model research on hyer-computation clusters.
 * Focusing on acceleration techniques such as **caching and distillation**.
-* Contributing as a **Core Member** to projects including **HunyuanVideo 1.5**.
+* Contributing as a **Core Member** to projects including [**HunyuanVideo 1.5**](https://arxiv.org/abs/2511.18870).
 
 **Research Intern | EPIC Lab**
 *2024 – 2026*
-* Advised by **Prof. Linfeng Zhang**, focusing on Efficient AIGC research.
+* Advised by [**Prof. Linfeng Zhang**](https://www.zhanglinfeng.tech), focusing on Efficient AIGC research.
 
 **Undergraduate | Yingcai Honors College, UESTC**
 *2022 – 2026*
