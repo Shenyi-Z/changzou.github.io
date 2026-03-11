@@ -14,7 +14,7 @@ profile:
     <p>ICLR,ICCV,CVPR,MM</p>
     <p>Current: Shenzhen,Guangdong</p>
     <p>Hometown: Chengdu,Sichuan</p>
-
+    <a href='https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=yWm0cJsAAAAJ'> Google Scholar</a>
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -35,7 +35,7 @@ Hi, I’m **Chang Zou**. I am currently an undergraduate at [**Yingcai Honors Co
 
 My research primarily focuses on **Precise and Efficient AIGC**. From 2024 to 2026, my work centered on inference acceleration for diffusion models, where I achieved significant milestones in speeding up image and video generation (you may recognize my work through the [**TaylorSeer**](https://github.com/Shenyi-Z/TaylorSeer) project). Since 2026, I have expanded my exploration into **agentic video generation, world models, and unified native multi-modal LLMs** that bridge generation and understanding.
 
-I maintain a critical yet open-minded attitude toward academic research and discussions. I am always eager to connect, feel free to reach out!
+I maintain a critical yet open-minded attitude toward academic research and discussions. I am always eager to connect, feel free to reach out! By the way, I am currently **seeking internship opportunities** in related fields and welcome any inquiries.
 
 
 #### **Experience**
