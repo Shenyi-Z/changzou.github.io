@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-04-03'
 papers:
   yWm0cJsAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: 'Z-Cache: Accelerating Diffusion Transformers via Self-Reflection'
     year: Unknown Year
   yWm0cJsAAAAJ:9yKSN-GCB0IC:
-    citations: 51
+    citations: 52
     title: 'From reusing to forecasting: Accelerating diffusion models with taylorseers'
     year: '2025'
   yWm0cJsAAAAJ:IjCSPb-OGe4C:
@@ -42,7 +42,7 @@ papers:
     title: 'Hicache: Training-free acceleration of diffusion models via hermite polynomial-based feature caching'
     year: '2025'
   yWm0cJsAAAAJ:UeHWp8X0CEIC:
-    citations: 51
+    citations: 55
     title: 'EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models'
     year: '2025'
   yWm0cJsAAAAJ:UebtZRa9Y70C:
@@ -66,7 +66,7 @@ papers:
     title: 'Let Features Decide Their Own Solvers: Hybrid Feature Caching for Diffusion Transformers'
     year: '2025'
   yWm0cJsAAAAJ:_FxGoFyzp5QC:
-    citations: 22
+    citations: 29
     title: Hunyuanvideo 1.5 technical report
     year: '2025'
   yWm0cJsAAAAJ:d1gkVwhDpl0C:
@@ -82,7 +82,7 @@ papers:
     title: 'FreqCa: Accelerating Diffusion Models via Frequency Decomposition Caching'
     year: Unknown Year
   yWm0cJsAAAAJ:qjMakFHDy7sC:
-    citations: 95
+    citations: 97
     title: 'dllm-cache: Accelerating diffusion large language models with adaptive caching'
     year: '2025'
   yWm0cJsAAAAJ:roLk4NBRz8UC:
@@ -90,11 +90,11 @@ papers:
     title: Accelerating diffusion transformers with dual feature caching, 2024
     year: Unknown Year
   yWm0cJsAAAAJ:u-x6o8ySG0sC:
-    citations: 27
+    citations: 28
     title: Accelerating diffusion transformers with dual feature caching
     year: '2024'
   yWm0cJsAAAAJ:u5HHmVD_uO8C:
-    citations: 88
+    citations: 89
     title: Accelerating diffusion transformers with token-wise feature caching
     year: '2024'
   yWm0cJsAAAAJ:ufrVoPGSRksC:
