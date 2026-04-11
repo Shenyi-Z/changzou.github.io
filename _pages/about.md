@@ -6,7 +6,7 @@ subtitle: Phd Student @<a href='https://soai.sjtu.edu.cn/'>School of AI, Shangha
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: silver_wolf.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: shenyizou@gmail.com</p>
