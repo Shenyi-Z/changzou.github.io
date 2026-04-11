@@ -33,7 +33,7 @@ latest_posts:
 
 Hi, I’m **Chang Zou**. I am currently an undergraduate at [**Yingcai Honors College, UESTC**](https://www.yingcai.uestc.edu.cn/), where I will receive my B.Sc. in Artificial Intelligence in June 2026. Following my graduation, I will begin my Ph.D. journey in September 2026 at the **School of AI, Shanghai Jiao Tong University (SJTU)**, under the supervision of [**Prof. Linfeng Zhang**](https://www.zhanglinfeng.tech).
 
-My research primarily focuses on **Precise and Efficient AIGC**. From 2024 to 2026, my work centered on inference acceleration for diffusion models, where I achieved significant milestones in speeding up image and video generation (you may recognize my work through the [**TaylorSeer**](https://github.com/Shenyi-Z/TaylorSeer) project). Since 2026, I have expanded my exploration into **agentic video generation, world models, and unified native multi-modal LLMs** that bridge generation and understanding.
+My research primarily focuses on **Precise and Efficient AIGC**. From 2024 to 2026, my work centered on inference acceleration for diffusion models, where I achieved significant milestones in speeding up image and video generation (you may recognize my work through the [**TaylorSeer**](https://github.com/Shenyi-Z/TaylorSeer) project). Since 2026, my research focus has expanded to include **representation learning in vision foundation models, world models, and unified multimodal architectures** bridging generation and comprehension.
 
 I maintain a critical yet open-minded attitude toward academic research and discussions. I am always eager to connect, feel free to reach out! By the way, I am currently **seeking internship opportunities** in related fields and welcome any inquiries.
 
@@ -45,13 +45,14 @@ I maintain a critical yet open-minded attitude toward academic research and disc
 
 * Incoming doctoral candidate focusing on next-generation generative models.
 
-
-**Research Intern (Qingyun Program) | Foundation Model Team @ Tencent Hunyuan**
+**Research Intern (Tencent Project UP) | Foundation Model Team @ Tencent Hunyuan**
 *2025 – Present*
 
-* Conducting foundation model research on hyer-computation clusters.
-* Focusing on acceleration techniques such as **caching and distillation**.
+* Focusing on precise and efficient image and video generation.
 * Contributing as a **Core Member** to projects including [**HunyuanVideo 1.5**](https://arxiv.org/abs/2511.18870).
+* Published the paper [**DisCa**](https://arxiv.org/abs/2602.05449) **at CVPR 2026 as the first author**, focusing on improvements to diffusion model distillation schemes and learnable feature caching acceleration strategies.
+* Researching **post-training and representation learning** for foundation vision models.
+* Conducting foundation model research on hyper-computation clusters.
 
 **Research Intern | EPIC Lab @ SAI, Shanghai Jiao Tong University**
 *2024 – 2026*
