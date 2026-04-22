@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-06'
+  last_updated: '2026-04-22'
 papers:
   yWm0cJsAAAAJ:0EnyYjriUFMC:
     citations: 0
     title: Accelerate Diffusion Transformers with Feature Momentum
     year: Unknown Year
   yWm0cJsAAAAJ:2osOgNQ5qMEC:
-    citations: 26
+    citations: 28
     title: 'Eedit: Rethinking the spatial and temporal redundancy for efficient image editing'
     year: '2025'
   yWm0cJsAAAAJ:3fE2CSJIrl8C:
@@ -22,11 +22,11 @@ papers:
     title: 'Z-Cache: Accelerating Diffusion Transformers via Self-Reflection'
     year: Unknown Year
   yWm0cJsAAAAJ:9yKSN-GCB0IC:
-    citations: 54
+    citations: 59
     title: 'From reusing to forecasting: Accelerating diffusion models with taylorseers'
     year: '2025'
   yWm0cJsAAAAJ:IjCSPb-OGe4C:
-    citations: 30
+    citations: 31
     title: Shifting ai efficiency from model-centric to data-centric compression
     year: '2025'
   yWm0cJsAAAAJ:LkGwnXOMwfcC:
@@ -42,11 +42,11 @@ papers:
     title: 'DisCa: Accelerating Video Diffusion Transformers with Distillation-Compatible Learnable Feature Caching'
     year: '2026'
   yWm0cJsAAAAJ:Tyk-4Ss8FVUC:
-    citations: 5
+    citations: 6
     title: 'Hicache: Training-free acceleration of diffusion models via hermite polynomial-based feature caching'
     year: '2025'
   yWm0cJsAAAAJ:UeHWp8X0CEIC:
-    citations: 57
+    citations: 61
     title: 'EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models'
     year: '2025'
   yWm0cJsAAAAJ:UebtZRa9Y70C:
@@ -54,7 +54,7 @@ papers:
     title: 'Rethinking Token-wise Feature Caching: Accelerating Diffusion Transformers with Dual Feature Caching'
     year: '2024'
   yWm0cJsAAAAJ:W7OEmFMy1HYC:
-    citations: 15
+    citations: 16
     title: 'SpeCa: Accelerating Diffusion Transformers with Speculative Feature Caching'
     year: '2025'
   yWm0cJsAAAAJ:WF5omc3nYNoC:
@@ -70,7 +70,7 @@ papers:
     title: 'Let Features Decide Their Own Solvers: Hybrid Feature Caching for Diffusion Transformers'
     year: '2025'
   yWm0cJsAAAAJ:_FxGoFyzp5QC:
-    citations: 31
+    citations: 35
     title: Hunyuanvideo 1.5 technical report
     year: '2025'
   yWm0cJsAAAAJ:d1gkVwhDpl0C:
@@ -86,7 +86,7 @@ papers:
     title: 'FreqCa: Accelerating Diffusion Models via Frequency Decomposition Caching'
     year: Unknown Year
   yWm0cJsAAAAJ:qjMakFHDy7sC:
-    citations: 98
+    citations: 99
     title: 'dllm-cache: Accelerating diffusion large language models with adaptive caching'
     year: '2025'
   yWm0cJsAAAAJ:roLk4NBRz8UC:
@@ -98,7 +98,7 @@ papers:
     title: Accelerating diffusion transformers with dual feature caching
     year: '2024'
   yWm0cJsAAAAJ:u5HHmVD_uO8C:
-    citations: 91
+    citations: 93
     title: Accelerating diffusion transformers with token-wise feature caching
     year: '2024'
   yWm0cJsAAAAJ:ufrVoPGSRksC:
