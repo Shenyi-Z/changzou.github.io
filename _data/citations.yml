@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-22'
+  last_updated: '2026-05-01'
 papers:
   yWm0cJsAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -22,7 +22,7 @@ papers:
     title: 'Z-Cache: Accelerating Diffusion Transformers via Self-Reflection'
     year: Unknown Year
   yWm0cJsAAAAJ:9yKSN-GCB0IC:
-    citations: 59
+    citations: 62
     title: 'From reusing to forecasting: Accelerating diffusion models with taylorseers'
     year: '2025'
   yWm0cJsAAAAJ:IjCSPb-OGe4C:
@@ -46,7 +46,7 @@ papers:
     title: 'Hicache: Training-free acceleration of diffusion models via hermite polynomial-based feature caching'
     year: '2025'
   yWm0cJsAAAAJ:UeHWp8X0CEIC:
-    citations: 61
+    citations: 62
     title: 'EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models'
     year: '2025'
   yWm0cJsAAAAJ:UebtZRa9Y70C:
@@ -66,11 +66,11 @@ papers:
     title: 'Compute Only 16 Tokens in One Timestep: Accelerating Diffusion Transformers with Cluster-Driven Feature Caching'
     year: '2025'
   yWm0cJsAAAAJ:YsMSGLbcyi4C:
-    citations: 2
+    citations: 3
     title: 'Let Features Decide Their Own Solvers: Hybrid Feature Caching for Diffusion Transformers'
     year: '2025'
   yWm0cJsAAAAJ:_FxGoFyzp5QC:
-    citations: 35
+    citations: 41
     title: Hunyuanvideo 1.5 technical report
     year: '2025'
   yWm0cJsAAAAJ:d1gkVwhDpl0C:
@@ -86,7 +86,7 @@ papers:
     title: 'FreqCa: Accelerating Diffusion Models via Frequency Decomposition Caching'
     year: Unknown Year
   yWm0cJsAAAAJ:qjMakFHDy7sC:
-    citations: 99
+    citations: 102
     title: 'dllm-cache: Accelerating diffusion large language models with adaptive caching'
     year: '2025'
   yWm0cJsAAAAJ:roLk4NBRz8UC:
@@ -98,7 +98,7 @@ papers:
     title: Accelerating diffusion transformers with dual feature caching
     year: '2024'
   yWm0cJsAAAAJ:u5HHmVD_uO8C:
-    citations: 93
+    citations: 96
     title: Accelerating diffusion transformers with token-wise feature caching
     year: '2024'
   yWm0cJsAAAAJ:ufrVoPGSRksC:
@@ -106,6 +106,6 @@ papers:
     title: "\u901A\u8FC7\u4EE4\u724C\u526A\u679D\u63D0\u9AD8\u7F13\u5B58\u6027\u80FD: \u514D\u8D39\u5B9E\u73B0\u7A33\u5B9A\u6269\u6563\u7684 9 \u500D\xD7 \u52A0\u901F"
     year: Unknown Year
   yWm0cJsAAAAJ:zYLM7Y9cAGgC:
-    citations: 3
+    citations: 4
     title: 'Forecast then calibrate: Feature caching as ode for efficient diffusion transformers'
     year: '2025'
