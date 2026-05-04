@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-01'
+  last_updated: '2026-05-04'
 papers:
   yWm0cJsAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -22,11 +22,11 @@ papers:
     title: 'Z-Cache: Accelerating Diffusion Transformers via Self-Reflection'
     year: Unknown Year
   yWm0cJsAAAAJ:9yKSN-GCB0IC:
-    citations: 62
+    citations: 63
     title: 'From reusing to forecasting: Accelerating diffusion models with taylorseers'
     year: '2025'
   yWm0cJsAAAAJ:IjCSPb-OGe4C:
-    citations: 31
+    citations: 32
     title: Shifting ai efficiency from model-centric to data-centric compression
     year: '2025'
   yWm0cJsAAAAJ:LkGwnXOMwfcC:
@@ -54,7 +54,7 @@ papers:
     title: 'Rethinking Token-wise Feature Caching: Accelerating Diffusion Transformers with Dual Feature Caching'
     year: '2024'
   yWm0cJsAAAAJ:W7OEmFMy1HYC:
-    citations: 16
+    citations: 17
     title: 'SpeCa: Accelerating Diffusion Transformers with Speculative Feature Caching'
     year: '2025'
   yWm0cJsAAAAJ:WF5omc3nYNoC:
@@ -78,15 +78,19 @@ papers:
     title: 'Token pruning for caching better: 9 times acceleration on stable diffusion for free'
     year: '2024'
   yWm0cJsAAAAJ:eQOLeE2rZwMC:
-    citations: 3
+    citations: 4
     title: 'Freqca: Accelerating diffusion models via frequency-aware caching'
     year: '2025'
   yWm0cJsAAAAJ:hqOjcs7Dif8C:
     citations: 0
     title: 'FreqCa: Accelerating Diffusion Models via Frequency Decomposition Caching'
     year: Unknown Year
+  yWm0cJsAAAAJ:kNdYIx-mwKoC:
+    citations: 0
+    title: 'Beyond Fixed Formulas: Data-Driven Linear Predictor for Efficient Diffusion Models'
+    year: '2026'
   yWm0cJsAAAAJ:qjMakFHDy7sC:
-    citations: 102
+    citations: 104
     title: 'dllm-cache: Accelerating diffusion large language models with adaptive caching'
     year: '2025'
   yWm0cJsAAAAJ:roLk4NBRz8UC:
@@ -106,6 +110,6 @@ papers:
     title: "\u901A\u8FC7\u4EE4\u724C\u526A\u679D\u63D0\u9AD8\u7F13\u5B58\u6027\u80FD: \u514D\u8D39\u5B9E\u73B0\u7A33\u5B9A\u6269\u6563\u7684 9 \u500D\xD7 \u52A0\u901F"
     year: Unknown Year
   yWm0cJsAAAAJ:zYLM7Y9cAGgC:
-    citations: 4
+    citations: 5
     title: 'Forecast then calibrate: Feature caching as ode for efficient diffusion transformers'
     year: '2025'
