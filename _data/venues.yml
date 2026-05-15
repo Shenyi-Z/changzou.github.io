@@ -32,6 +32,10 @@
   url: https://aaai.org/Conferences/AAAI/
   color: "#EF4444" # Standard Red (明艳正红，修正了原本过暗的深红，使其融入整体色系)
 
+"TIP":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83
+  color: "#06B6D4" # Cyan (清澈青蓝，介于 CVPR 天蓝与 ICCV 翠绿之间，呼应图像处理的精密与顶刊地位)
+
 "Tech Report":
   url: https://arxiv.org/abs/2511.18870
   color: "#64748B" # Slate (高级灰蓝，提亮了死板的纯灰，保留底座质感的同时不显沉闷)
@@ -39,4 +43,3 @@
 "arXiv":
   url: https://arxiv.org/
   color: "#F59E0B" # Amber (温暖琥珀黄，极具辨识度，代表预印本蓬勃的生命力与进行时状态)
-  
