@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-07-24'
 papers:
   yWm0cJsAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -66,7 +66,7 @@ papers:
     title: 'Let Features Decide Their Own Solvers: Hybrid Feature Caching for Diffusion Transformers'
     year: '2025'
   yWm0cJsAAAAJ:_FxGoFyzp5QC:
-    citations: 77
+    citations: 78
     title: Hunyuanvideo 1.5 technical report
     year: '2025'
   yWm0cJsAAAAJ:d1gkVwhDpl0C:
@@ -86,7 +86,7 @@ papers:
     title: 'Beyond Fixed Formulas: Data-Driven Linear Predictor for Efficient Diffusion Models'
     year: '2026'
   yWm0cJsAAAAJ:qjMakFHDy7sC:
-    citations: 133
+    citations: 134
     title: 'dllm-cache: Accelerating diffusion large language models with adaptive caching'
     year: '2025'
   yWm0cJsAAAAJ:u5HHmVD_uO8C:
