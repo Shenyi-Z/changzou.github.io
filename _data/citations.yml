@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-19'
+  last_updated: '2026-08-21'
 papers:
   yWm0cJsAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -42,7 +42,7 @@ papers:
     title: 'Hicache: Training-free acceleration of diffusion models via hermite polynomial-based feature caching'
     year: '2025'
   yWm0cJsAAAAJ:UeHWp8X0CEIC:
-    citations: 91
+    citations: 92
     title: 'EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models'
     year: '2025'
   yWm0cJsAAAAJ:UebtZRa9Y70C:
@@ -90,7 +90,7 @@ papers:
     title: 'Beyond Fixed Formulas: Data-Driven Linear Predictor for Efficient Diffusion Models'
     year: '2026'
   yWm0cJsAAAAJ:qjMakFHDy7sC:
-    citations: 147
+    citations: 148
     title: 'dllm-cache: Accelerating diffusion large language models with adaptive caching'
     year: '2025'
   yWm0cJsAAAAJ:u5HHmVD_uO8C:
