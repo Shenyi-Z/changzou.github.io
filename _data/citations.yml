@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-21'
+  last_updated: '2026-08-28'
 papers:
   yWm0cJsAAAAJ:0EnyYjriUFMC:
     citations: 0
     title: Accelerate Diffusion Transformers with Feature Momentum
     year: Unknown Year
   yWm0cJsAAAAJ:2osOgNQ5qMEC:
-    citations: 44
+    citations: 45
     title: 'Eedit: Rethinking the spatial and temporal redundancy for efficient image editing'
     year: '2025'
   yWm0cJsAAAAJ:3fE2CSJIrl8C:
@@ -14,11 +14,11 @@ papers:
     title: 'HiCache: A plug-in scaled-Hermite upgrade for Taylor-style cache-then-forecast diffusion acceleration'
     year: '2026'
   yWm0cJsAAAAJ:5nxA0vEk-isC:
-    citations: 0
+    citations: 3
     title: 'LESA: Learnable Stage-Aware Predictors for Diffusion Model Acceleration'
     year: '2026'
   yWm0cJsAAAAJ:9yKSN-GCB0IC:
-    citations: 122
+    citations: 125
     title: 'From reusing to forecasting: Accelerating diffusion models with taylorseers'
     year: '2025'
   yWm0cJsAAAAJ:IjCSPb-OGe4C:
@@ -26,7 +26,7 @@ papers:
     title: Shifting ai efficiency from model-centric to data-centric compression
     year: '2025'
   yWm0cJsAAAAJ:LkGwnXOMwfcC:
-    citations: 3
+    citations: 4
     title: 'From Sketch to Fresco: Efficient Diffusion Transformer with Progressive Resolution'
     year: '2026'
   yWm0cJsAAAAJ:MXK_kJrjxJIC:
@@ -42,27 +42,31 @@ papers:
     title: 'Hicache: Training-free acceleration of diffusion models via hermite polynomial-based feature caching'
     year: '2025'
   yWm0cJsAAAAJ:UeHWp8X0CEIC:
-    citations: 92
+    citations: 94
     title: 'EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models'
     year: '2025'
   yWm0cJsAAAAJ:UebtZRa9Y70C:
-    citations: 12
+    citations: 14
     title: 'Rethinking Token-wise Feature Caching: Accelerating Diffusion Transformers with Dual Feature Caching'
     year: '2026'
   yWm0cJsAAAAJ:W7OEmFMy1HYC:
-    citations: 32
+    citations: 34
     title: 'SpeCa: Accelerating Diffusion Transformers with Speculative Feature Caching'
     year: '2025'
   yWm0cJsAAAAJ:WF5omc3nYNoC:
-    citations: 13
+    citations: 16
     title: 'A survey on cache methods in diffusion models: Toward efficient multi-modal generation'
     year: '2025'
   yWm0cJsAAAAJ:Y0pCki6q_DkC:
-    citations: 21
+    citations: 22
     title: 'Compute Only 16 Tokens in One Timestep: Accelerating Diffusion Transformers with Cluster-Driven Feature Caching'
     year: '2025'
+  yWm0cJsAAAAJ:YOwf2qJgpHMC:
+    citations: 0
+    title: 'AViTS: Adaptive Spatiotemporal Token Selection for Efficient Dynamic-Resolution Generation'
+    year: '2026'
   yWm0cJsAAAAJ:YsMSGLbcyi4C:
-    citations: 5
+    citations: 6
     title: 'Let Features Decide Their Own Solvers: Hybrid Feature Caching for Diffusion Transformers'
     year: '2025'
   yWm0cJsAAAAJ:Zph67rFs4hoC:
@@ -70,15 +74,15 @@ papers:
     title: 'Z-Cache: Accelerating Diffusion Transformers via Self-Reflection'
     year: Unknown Year
   yWm0cJsAAAAJ:_FxGoFyzp5QC:
-    citations: 94
+    citations: 95
     title: Hunyuanvideo 1.5 technical report
     year: '2025'
   yWm0cJsAAAAJ:d1gkVwhDpl0C:
-    citations: 28
+    citations: 29
     title: 'Token pruning for caching better: 9 times acceleration on stable diffusion for free'
     year: '2024'
   yWm0cJsAAAAJ:eQOLeE2rZwMC:
-    citations: 14
+    citations: 15
     title: 'Freqca: Accelerating diffusion models via frequency-aware caching'
     year: '2025'
   yWm0cJsAAAAJ:hqOjcs7Dif8C:
@@ -90,11 +94,11 @@ papers:
     title: 'Beyond Fixed Formulas: Data-Driven Linear Predictor for Efficient Diffusion Models'
     year: '2026'
   yWm0cJsAAAAJ:qjMakFHDy7sC:
-    citations: 148
+    citations: 149
     title: 'dllm-cache: Accelerating diffusion large language models with adaptive caching'
     year: '2025'
   yWm0cJsAAAAJ:u5HHmVD_uO8C:
-    citations: 159
+    citations: 161
     title: Accelerating diffusion transformers with token-wise feature caching
     year: '2024'
   yWm0cJsAAAAJ:ufrVoPGSRksC:
@@ -102,6 +106,6 @@ papers:
     title: "\u901A\u8FC7\u4EE4\u724C\u526A\u679D\u63D0\u9AD8\u7F13\u5B58\u6027\u80FD: \u514D\u8D39\u5B9E\u73B0\u7A33\u5B9A\u6269\u6563\u7684 9 \u500D\xD7 \u52A0\u901F"
     year: Unknown Year
   yWm0cJsAAAAJ:zYLM7Y9cAGgC:
-    citations: 14
+    citations: 15
     title: 'Forecast then calibrate: Feature caching as ode for efficient diffusion transformers'
     year: '2025'
